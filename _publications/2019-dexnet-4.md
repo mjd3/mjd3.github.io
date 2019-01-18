@@ -4,7 +4,7 @@ authors: 'Jeffrey Mahler, Matthew Matl, Vishal Satish, Michael Danielczuk, Bill 
 venue: 'Science Robotics'
 date: 2019-01-16
 category: 'published'
-pdf: http://robotics.sciencemag.org/content/4/26/eaau4984/tab-pdf
+paperurl: http://robotics.sciencemag.org/content/4/26/eaau4984
 bibtex: '2019-dexnet-4.bib'
 teaser: '2019-dexnet-4.jpg'
 permalink: /publication/2019-dexnet-4
