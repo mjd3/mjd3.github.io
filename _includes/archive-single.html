@@ -43,6 +43,8 @@
         <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% elsif post.category == 'submitted' %}
         <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
+        {% elsif post.category == 'review' %}
+        <p>Under Review, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% endif %}
 
         <p>
