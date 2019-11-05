@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-mech-search.pdf'
 teaser: '2019-mech-search.png'
 bibtex: '2019-mech-search.bib'
-permalink: /publication/2019-mech-search
+permalink: /publications/2019-mech-search
 collection: publications
 ---
 

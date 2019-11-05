@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2018-linear-push.pdf'
 bibtex: '2018-linear-push.bib'
 teaser: '2018-linear-push.png'
-permalink: /publication/2018-linear-push
+permalink: /publications/2018-linear-push
 collection: publications
 ---
 

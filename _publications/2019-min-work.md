@@ -7,7 +7,7 @@ category: 'review'
 pdf: '2019-min-work.pdf'
 teaser: '2019-min-work.png'
 bibtex: '2019-min-work.bib'
-permalink: /publication/2019-min-work
+permalink: /publications/2019-min-work
 collection: publications
 ---
 

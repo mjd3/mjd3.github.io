@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-sdmaskrcnn.pdf'
 teaser: '2019-sdmaskrcnn.png'
 bibtex: '2019-sdmaskrcnn.bib'
-permalink: /publication/2019-sdmaskrcnn
+permalink: /publications/2019-sdmaskrcnn
 collection: publications
 ---
 

@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-toppling.pdf'
 teaser: '2019-toppling.png'
 bibtex: '2019-toppling.bib'
-permalink: /publication/2019-toppling
+permalink: /publications/2019-toppling
 collection: publications
 ---
 

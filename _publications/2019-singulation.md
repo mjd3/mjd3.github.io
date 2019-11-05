@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-singulation.pdf'
 teaser: '2019-singulation.png'
 bibtex: '2019-singulation.bib'
-permalink: /publication/2019-singulation
+permalink: /publications/2019-singulation
 collection: publications
 ---
 

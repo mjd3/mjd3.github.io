@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-dexnet-4.pdf'
 bibtex: '2019-dexnet-4.bib'
 teaser: '2019-dexnet-4.jpg'
-permalink: /publication/2019-dexnet-4
+permalink: /publications/2019-dexnet-4
 collection: publications
 ---
 

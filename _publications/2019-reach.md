@@ -7,7 +7,7 @@ category: 'published'
 pdf: '2019-reach.pdf'
 teaser: '2019-reach.png'
 bibtex: '2019-reach.bib'
-permalink: /publication/2019-reach
+permalink: /publications/2019-reach
 collection: publications
 ---
 

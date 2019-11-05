@@ -85,7 +85,7 @@ author:
   location         : "Berkeley, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1Tfui8UAAAAJ&hl=en"
-  email            : "mjd3@eecs.berkeley.edu"
+  email            : "mjd3@berkeley.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,11 +98,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            :
+  linkedin         : "michael-danielczuk"
+  orcid            : "https://orcid.org/0000-0002-3858-2312"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
@@ -193,7 +193,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true

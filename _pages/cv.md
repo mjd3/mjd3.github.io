@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume](http://mjd3.github.io/files/Resume_21_10_2018.pdf)
+[Resume]({{ base_path }}/files/Resume_04_11_2019.pdf)
 
 Education
 ------
-* Current EECS Ph.D student in Robotics and Control, UC Berkeley, 2022 (expected)
+* Current EECS Ph.D student in Robotic Perception and Manipulation, UC Berkeley, 2022 (expected)
 * B.S.E in Electrical Engineering (Magna Cum Laude), Princeton University, 2016
   * GPA: 3.88
   * Minors in Computer Science, Robotics and Intelligent Systems, and Italian Language
@@ -33,9 +33,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+Blog Posts
+------
+  <ul>{% for post in site.posts reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Work Experience
 ------
-* Virtualapt (July 2016 - August 2017), _Brooklyn, NY_
+* VirtualAPT (July 2016 - August 2017), _Brooklyn, NY_
   * Head of Electrical Engineering
 
 * MIT Lincoln Laboratory (June - August 2015), _Lexington, MA_
