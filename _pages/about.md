@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mike Danielczuk, and I'm a third-year PhD student in EECS at UC Berkeley.
+My name is Mike Danielczuk, and I'm a third-year PhD student and NSF Graduate Research Fellow in EECS at UC Berkeley.
 I am advised by Professor [Ken Goldberg](http://goldberg.berkeley.edu/) of the [UC Berkeley Autolab](http://autolab.berkeley.edu/).
 My work thus far has focused on robotic perception and manipulation, ranging from instance segmentation to area contact modeling and robotic pushing to increase grasp success. Specifically, I am very interested in how we can use simulation to generate large datasets for deep learning methods, thus avoiding expensive hand-labeling. I received my BSE in Electrical Engineering from Princeton University.
 
