@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume]({{ base_path }}/files/Resume_04_11_2019.pdf)
+[Resume]({{ base_path }}/files/Resume-11-7-19.pdf)
 
 Education
 ------
