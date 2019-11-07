@@ -15,7 +15,7 @@ Education
 * Current EECS Ph.D student in Robotic Perception and Manipulation, UC Berkeley, 2022 (expected)
   * GPA: 3.96
   * Received a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/general_resources/about) for Robotics and Computer Vision in Spring 2019 
-* B.S.E in Electrical Engineering (Magna Cum Laude), Princeton University, 2016
+* B.S.E. in Electrical Engineering (Magna Cum Laude), Princeton University, 2016
   * GPA: 3.88
   * Minors in Computer Science, Robotics and Intelligent Systems, and Italian Language
   * Winner of the [Peter Mark Prize](http://ee.princeton.edu/news/department-presents-class-2016-awards)
