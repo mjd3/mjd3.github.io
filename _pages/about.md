@@ -16,6 +16,5 @@ I also enjoy running and hiking in the many beautiful California parks around th
 
 Recent News
 -------
-* *October 7, 2019* : I presented a paper on [a robust, efficient area contact model (REACH)](https://mjd3.github.io/publications/2019-reach) at [ISRR 2019](http://h2t-projects.webarchiv.kit.edu/Projects/ISRR2019/) in Hanoi, Vietnam!
-* *August 22, 2019* : Several of my collaborators in the lab presented our papers on [adversarial grasp objects](https://mjd3.github.io/publications/2019-ago), [singulation via pushing](https://mjd3.github.io/publications/2019-singulation), and [toppling policies for suction grasping](https://mjd3.github.io/publications/2019-toppling) at [CASE 2019](http://case2019.hust.edu.cn/index.htm).
-* *May 22, 2019* : I traveled to [ICRA 2019](https://www.icra2019.org/) in Montreal, Canada to present two of my papers, one on [segmenting unknown 3D objects from real depth images](https://mjd3.github.io/publications/2019-sdmaskrcnn) (in collaboration with several Autolab members) and one on [mechanical search](https://mjd3.github.io/publications/2019-mech-search) (in collaboration with Stanford).
+* *January 21, 2020* : Three of our papers on [minimal work grasp quality metrics](https://mjd3.github.io/publications/2020-min-work), [6D friction cone contact models](https://mjd3.github.io/publications/2020-6dfc), and [grasp-optimized motion planning](https://mjd3.github.io/publications/2020-gomp) were accepted to [ICRA 2020](https://www.icra2020.org/)!
+* *October 7, 2019* : I presented a paper on [a robust, efficient area contact model (REACH)](https://mjd3.github.io/publications/2019-reach) at [ISRR 2019](http://h2t-projects.webarchiv.kit.edu/Projects/ISRR2019/) in Hanoi, Vietnam.
