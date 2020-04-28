@@ -2,7 +2,7 @@
 title: 'Minimal Work: A Grasp Quality Metric for Deformable Hollow Objects'
 authors: 'Jingyi Xu, Michael Danielczuk, Jeff Ichnowski, Jeffrey Mahler, Eckehard Steinbach, Ken Goldberg'
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
-date: 2020-05-31
+date: 2020-03-01
 category: 'accepted'
 pdf: '2020-min-work.pdf'
 teaser: '2020-min-work.png'

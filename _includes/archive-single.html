@@ -50,7 +50,13 @@
 
         <p>
         {% if post.pdf %}
-          [<a href="{{ post.pdf | prepend: "/files/" | prepend: base_path }}">PDF</a>]
+          [<a href=
+            {% if post.pdf contains "://" %}
+              "{{ post.pdf }}"
+            {% else %}
+              "{{ post.pdf | prepend: "/files/" | prepend: base_path }}"
+            {% endif %}
+            >PDF</a>]
         {% endif %}
         {% if post.supplement %}
           [<a href="{{ post.supplement | prepend: "/files/" | prepend: base_path }}">Supplement</a>]

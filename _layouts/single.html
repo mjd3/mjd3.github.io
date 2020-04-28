@@ -55,7 +55,13 @@ layout: default
         {% if page.collection == 'publications' %}
             <p>
             {% if page.pdf %}
-            [<a href="{{ page.pdf | prepend: "/files/" | prepend: base_path }}">PDF</a>]
+            [<a href=
+              {% if page.pdf contains "://" %}
+                "{{ page.pdf }}"
+              {% else %}
+                "{{ page.pdf | prepend: "/files/" | prepend: base_path }}"
+              {% endif %}
+             >PDF</a>]
             {% endif %}
             {% if page.supplement %}
             [<a href="{{ page.supplement | prepend: "/files/" | prepend: base_path }}">Supplement</a>]
@@ -74,7 +80,7 @@ layout: default
 
       <div>
         <img src=
-          {% if teaser contains "://" %}
+          {% if page.teaser contains "://" %}
             "{{ page.teaser }}"
           {% else %}
             "{{ page.teaser | prepend: "/images/" | prepend: base_path }}"
