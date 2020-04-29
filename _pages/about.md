@@ -16,5 +16,5 @@ I also enjoy running and hiking in the many beautiful California parks around th
 
 Recent News
 -------
+* *April 20, 2020* : I released a paper on [mechanical search using learned occupancy distributions](https://mjd3.github.io/publications/2020-x-ray) on arXiv as part of a collaboration with [Robotics at Google](http://g.co/robotics).
 * *January 21, 2020* : Three of our papers on [minimal work grasp quality metrics](https://mjd3.github.io/publications/2020-min-work), [6D friction cone contact models](https://mjd3.github.io/publications/2020-6dfc), and [grasp-optimized motion planning](https://mjd3.github.io/publications/2020-gomp) were accepted to [ICRA 2020](https://www.icra2020.org/)!
-* *October 7, 2019* : I presented a paper on [a robust, efficient area contact model (REACH)](https://mjd3.github.io/publications/2019-reach) at [ISRR 2019](http://h2t-projects.webarchiv.kit.edu/Projects/ISRR2019/) in Hanoi, Vietnam.
