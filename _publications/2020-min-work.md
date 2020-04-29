@@ -4,6 +4,7 @@ authors: 'Jingyi Xu, Michael Danielczuk, Jeff Ichnowski, Jeffrey Mahler, Eckehar
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2020-03-01
 category: 'accepted'
+type: 'conference'
 pdf: '2020-min-work.pdf'
 teaser: '2020-min-work.png'
 bibtex: '2020-min-work.bib'

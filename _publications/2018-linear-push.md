@@ -4,6 +4,7 @@ authors: 'Michael Danielczuk, Jeffrey Mahler, Chris Correa, Ken Goldberg'
 venue: 'IEEE International Conference on Automation Science and Engineering (CASE)'
 date: 2018-08-20
 category: 'published'
+type: 'conference'
 pdf: '2018-linear-push.pdf'
 bibtex: '2018-linear-push.bib'
 teaser: '2018-linear-push.png'

@@ -4,6 +4,7 @@ authors: 'Zisu Dong, Sanjay Krishnan, Sona Dolasia, Ashwin Balakrishna, Michael 
 venue: 'IEEE International Conference on Automation Science and Engineering (CASE)'
 date: 2019-08-22
 category: 'published'
+type: 'conference'
 pdf: '2019-singulation.pdf'
 teaser: '2019-singulation.png'
 bibtex: '2019-singulation.bib'

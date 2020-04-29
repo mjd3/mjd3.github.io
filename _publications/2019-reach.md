@@ -4,6 +4,7 @@ authors: 'Michael Danielczuk, Jingyi Xu, Jeffrey Mahler, Matthew Matl, Nuttapong
 venue: 'International Symposium on Robotics Research (ISRR)'
 date: 2019-10-07
 category: 'published'
+type: 'conference'
 pdf: '2019-reach.pdf'
 teaser: '2019-reach.png'
 bibtex: '2019-reach.bib'

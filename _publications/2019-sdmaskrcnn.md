@@ -4,6 +4,7 @@ authors: 'Michael Danielczuk, Matthew Matl, Saurabh Gupta, Andrew Li, Andrew Lee
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2019-05-20
 category: 'published'
+type: 'conference'
 pdf: https://arxiv.org/pdf/1809.05825.pdf
 teaser: '2019-sdmaskrcnn.png'
 bibtex: '2019-sdmaskrcnn.bib'

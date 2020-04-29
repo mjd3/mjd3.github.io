@@ -5,6 +5,7 @@ venue: 'IEEE International Conference on Automation Science and Engineering (CAS
 date: 2019-08-22
 category: 'published'
 pdf: '2019-toppling.pdf'
+type: 'conference'
 teaser: '2019-toppling.png'
 bibtex: '2019-toppling.bib'
 permalink: /publications/2019-toppling
