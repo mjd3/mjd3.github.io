@@ -6,6 +6,7 @@ date: 2019-10-07
 category: 'published'
 type: 'conference'
 pdf: '2019-reach.pdf'
+website: https://sites.google.com/berkeley.edu/reach
 teaser: '2019-reach.png'
 bibtex: '2019-reach.bib'
 permalink: /publications/2019-reach

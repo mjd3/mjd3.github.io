@@ -6,6 +6,7 @@ type: 'journal'
 date: 2019-01-16
 category: 'published'
 pdf: '2019-dexnet-4.pdf'
+website: https://berkeleyautomation.github.io/dex-net/#dexnet_4
 bibtex: '2019-dexnet-4.bib'
 teaser: '2019-dexnet-4.jpg'
 permalink: /publications/2019-dexnet-4

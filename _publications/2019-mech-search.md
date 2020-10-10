@@ -6,6 +6,7 @@ date: 2019-05-20
 category: 'published'
 type: 'conference'
 pdf: '2019-mech-search.pdf'
+website: http://ai.stanford.edu/mech-search/
 teaser: '2019-mech-search.png'
 bibtex: '2019-mech-search.bib'
 permalink: /publications/2019-mech-search

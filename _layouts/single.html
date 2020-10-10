@@ -69,6 +69,12 @@ layout: default
             {% if page.extended %}
             [<a href="{{ page.extended | prepend: "/files/" | prepend: base_path }}">Extended Version</a>]
             {% endif %}
+            {% if page.website %}
+              [<a href="{{ page.website }}">Website</a>]
+            {% endif %}
+            {% if page.code %}
+              [<a href="{{ page.code }}">Code</a>]
+            {% endif %}
             {% if page.bibtex %}
             [<a href="{{ page.bibtex | prepend: "/files/" | prepend: base_path }}">Bibtex</a>]
             {% endif %}

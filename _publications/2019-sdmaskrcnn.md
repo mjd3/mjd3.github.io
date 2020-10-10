@@ -6,6 +6,8 @@ date: 2019-05-20
 category: 'published'
 type: 'conference'
 pdf: https://arxiv.org/pdf/1809.05825.pdf
+website: https://sites.google.com/view/wisdom-dataset/home
+code: https://github.com/BerkeleyAutomation/sd-maskrcnn
 teaser: '2019-sdmaskrcnn.png'
 bibtex: '2019-sdmaskrcnn.bib'
 permalink: /publications/2019-sdmaskrcnn
