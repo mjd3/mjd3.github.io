@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign preprint_counter = 0 %}
+{% for post in site.publications %}
+  {% if post.type == 'preprint' %}
+    {% increment preprint_counter %}
+  {% endif %}
+{% endfor %}
+
+{% if preprint_counter > 0 %}
 ---
 <div align="center"><h1>Preprints</h1></div>
 ---
@@ -19,6 +27,7 @@ author_profile: true
     {% include archive-single.html type="mylist" %}
   {% endif %}
 {% endfor %}
+{% endif %}
 
 ---
 <div align="center"><h1>Journal Papers</h1></div>
