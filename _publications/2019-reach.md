@@ -1,6 +1,6 @@
 ---
 title: 'REACH: Reducing False Negatives in Robot Grasp Planning with a Robust Efficient Area Contact Hypothesis Model'
-authors: 'Michael Danielczuk, Jingyi Xu, Jeffrey Mahler, Matthew Matl, Nuttapong Chentanez, Ken Goldberg'
+authors: '**Michael Danielczuk**, Jingyi Xu, Jeffrey Mahler, Matthew Matl, Nuttapong Chentanez, Ken Goldberg'
 venue: 'International Symposium on Robotics Research (ISRR)'
 date: 2019-10-07
 category: 'published'

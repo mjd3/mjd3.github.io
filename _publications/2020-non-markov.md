@@ -1,11 +1,11 @@
 ---
 title: 'Non-Markov Policies to Reduce Sequential Failures in Robot Bin Picking'
-authors: 'Kate Sanders, Michael Danielczuk, Jeffrey Mahler, Ajay Tanwani, Ken Goldberg'
+authors: 'Kate Sanders, **Michael Danielczuk**, Jeffrey Mahler, Ajay Tanwani, Ken Goldberg'
 venue: 'IEEE Conference on Automation Science and Engineering (CASE)'
 date: 2020-08-20
 category: 'published'
 type: 'conference'
-pdf: '2020-non-markov.pdf'
+pdf: https://arxiv.org/pdf/2007.10420.pdf
 teaser: '2020-non-markov.png'
 bibtex: '2020-non-markov.bib'
 permalink: /publications/2020-non-markov

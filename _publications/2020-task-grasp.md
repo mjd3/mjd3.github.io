@@ -1,6 +1,6 @@
 ---
 title: 'Robust Task-Based Grasping as a Service'
-authors: 'Jingyi Song, Ajay Tanwani, Jeffrey Ichnowski, Michael Danielczuk, Kate Sanders, Jackson Chui, Juan A. Ojea, Ken Goldberg'
+authors: 'Jingyi Song, Ajay Tanwani, Jeffrey Ichnowski, **Michael Danielczuk**, Kate Sanders, Jackson Chui, Juan A. Ojea, Ken Goldberg'
 venue: 'IEEE Conference on Automation Science and Engineering (CASE)'
 date: 2020-08-20
 category: 'published'

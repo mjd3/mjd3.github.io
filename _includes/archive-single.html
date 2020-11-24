@@ -36,7 +36,7 @@
         {% endif %}
         </h2>
 
-        <p> <i>{{ post.authors }} </i> </p>
+        <p> <i>{{ post.authors | markdownify}} </i> </p>
 
         {% if post.category == 'published' %}
         <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
@@ -63,6 +63,15 @@
         {% endif %}
         {% if post.extended %}
           [<a href="{{ post.extended | prepend: "/files/" | prepend: base_path }}">Extended Version</a>]
+        {% endif %}
+        {% if post.video %}
+          [<a href=
+            {% if post.video contains "://" %}
+              "{{ post.video }}"
+            {% else %}
+              "{{ post.video | prepend: "/files/" | prepend: base_path }}"
+            {% endif %}
+            >Video</a>]
         {% endif %}
         {% if post.website %}
           [<a href="{{ post.website }}">Website</a>]

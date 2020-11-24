@@ -1,6 +1,6 @@
 ---
 title: 'Linear Push Policies to Increase Grasp Access for Robot Bin Picking'
-authors: 'Michael Danielczuk, Jeffrey Mahler, Chris Correa, Ken Goldberg'
+authors: '**Michael Danielczuk**, Jeffrey Mahler, Chris Correa, Ken Goldberg'
 venue: 'IEEE International Conference on Automation Science and Engineering (CASE)'
 date: 2018-08-20
 category: 'published'

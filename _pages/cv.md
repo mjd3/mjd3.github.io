@@ -43,6 +43,9 @@ Blog Posts
 
 Work Experience
 ------
+* NVIDIA (June 2020 - November 2020), _Seattle, WA (Remote)_
+  * Seattle Robotics Lab Intern
+  
 * VirtualAPT (July 2016 - August 2017), _Brooklyn, NY_
   * Head of Electrical Engineering
 

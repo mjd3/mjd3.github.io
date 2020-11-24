@@ -35,7 +35,7 @@ layout: default
         {% endif %}
 
         {% if page.authors %}
-        <p> <i>{{ page.authors }} </i> </p>
+        <p> <i>{{ page.authors | markdownify }} </i> </p>
         {% endif %}
 
         {% if page.collection == 'teaching' %}
@@ -68,6 +68,15 @@ layout: default
             {% endif %}
             {% if page.extended %}
             [<a href="{{ page.extended | prepend: "/files/" | prepend: base_path }}">Extended Version</a>]
+            {% endif %}
+            {% if page.video %}
+            [<a href=
+              {% if page.video contains "://" %}
+                "{{ page.video }}"
+              {% else %}
+                "{{ page.video | prepend: "/files/" | prepend: base_path }}"
+              {% endif %}
+             >Video</a>]
             {% endif %}
             {% if page.website %}
               [<a href="{{ page.website }}">Website</a>]

@@ -1,11 +1,11 @@
 ---
 title: 'Mechanical Search: Multi-Step Retrieval of a Target Object Occluded by Clutter'
-authors: 'Michael Danielczuk*, Andrey Kurenkov*, Ashwin Balakrishna, Matthew Matl, David Wang, Roberto Martín-Martín, Animesh Garg, Silvio Savarese,Ken Goldberg'
+authors: '**Michael Danielczuk\***, Andrey Kurenkov\*, Ashwin Balakrishna, Matthew Matl, David Wang, Roberto Martín-Martín, Animesh Garg, Silvio Savarese,Ken Goldberg'
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2019-05-20
 category: 'published'
 type: 'conference'
-pdf: '2019-mech-search.pdf'
+pdf: https://arxiv.org/pdf/1903.01588.pdf
 website: http://ai.stanford.edu/mech-search/
 teaser: '2019-mech-search.png'
 bibtex: '2019-mech-search.bib'

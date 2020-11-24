@@ -1,6 +1,6 @@
 ---
 title: 'One-Shot Shape-Based Amodal-to-Modal Instance Segmentation'
-authors: 'Andrew Li, Michael Danielczuk, Ken Goldberg'
+authors: 'Andrew Li, **Michael Danielczuk**, Ken Goldberg'
 venue: 'IEEE Conference on Automation Science and Engineering (CASE)'
 date: 2020-08-20
 category: 'published'

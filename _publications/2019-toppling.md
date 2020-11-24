@@ -1,6 +1,6 @@
 ---
 title: 'Robust Toppling for Vacuum Suction Grasping'
-authors: 'Christopher Correa, Jeffrey Mahler, Michael Danielczuk, Ken Goldberg'
+authors: 'Christopher Correa, Jeffrey Mahler, **Michael Danielczuk**, Ken Goldberg'
 venue: 'IEEE International Conference on Automation Science and Engineering (CASE)'
 date: 2019-08-22
 category: 'published'

@@ -11,14 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign preprint_counter = 0 %}
+{% assign show_preprints = false %}
 {% for post in site.publications %}
   {% if post.type == 'preprint' %}
-    {% increment preprint_counter %}
+    {% assign show_preprints = true %}
+    {% break %}
   {% endif %}
 {% endfor %}
 
-{% if preprint_counter > 0 %}
+{% if show_preprints %}
 ---
 <div align="center"><h1>Preprints</h1></div>
 ---
