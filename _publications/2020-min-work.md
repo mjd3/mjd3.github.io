@@ -6,6 +6,9 @@ date: 2020-05-31
 category: 'published'
 type: 'conference'
 pdf: https://arxiv.org/pdf/1909.11226.pdf
+video: https://youtu.be/H9pYnQbCbos
+website: https://sites.google.com/berkeley.edu/minimal-work
+code: https://github.com/martinajingyixu/stiffness-visualizer
 teaser: '2020-min-work.png'
 bibtex: '2020-min-work.bib'
 permalink: /publications/2020-min-work

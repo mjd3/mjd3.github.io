@@ -42,8 +42,6 @@
         <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% elsif post.category == 'accepted' %}
         <p>To appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
-        {% elsif post.category == 'submitted' %}
-        <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% elsif post.category == 'review' %}
         <p>Under Review, {{ post.date | default: "1900-01-01" | date: "%Y" }}.</p>
         {% endif %}
@@ -72,6 +70,15 @@
               "{{ post.video | prepend: "/files/" | prepend: base_path }}"
             {% endif %}
             >Video</a>]
+        {% endif %}
+        {% if post.presentation %}
+          [<a href=
+            {% if post.presentation contains "://" %}
+              "{{ post.presentation }}"
+            {% else %}
+              "{{ post.presentation | prepend: "/files/" | prepend: base_path }}"
+            {% endif %}
+            >Presentation</a>]
         {% endif %}
         {% if post.website %}
           [<a href="{{ post.website }}">Website</a>]

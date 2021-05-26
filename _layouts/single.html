@@ -78,6 +78,15 @@ layout: default
               {% endif %}
              >Video</a>]
             {% endif %}
+            {% if page.presentation %}
+            [<a href=
+              {% if page.presentation contains "://" %}
+                "{{ page.presentation }}"
+              {% else %}
+                "{{ page.presentation | prepend: "/files/" | prepend: base_path }}"
+              {% endif %}
+             >Presentation</a>]
+            {% endif %}
             {% if page.website %}
               [<a href="{{ page.website }}">Website</a>]
             {% endif %}

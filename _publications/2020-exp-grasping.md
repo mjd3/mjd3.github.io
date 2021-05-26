@@ -6,8 +6,9 @@ date: 2020-11-16
 category: 'published'
 type: 'conference'
 pdf: https://arxiv.org/pdf/2011.05632.pdf
-video: https://youtu.be/4UNtxA89juU
+presentation: https://youtu.be/4UNtxA89juU
 website: https://tinyurl.com/exp-grasping
+code: https://github.com/BerkeleyAutomation/exploratory-grasping
 teaser: '2020-exp-grasping.png'
 bibtex: '2020-exp-grasping.bib'
 permalink: /publications/2020-exp-grasping

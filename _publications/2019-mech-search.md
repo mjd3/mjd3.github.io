@@ -7,6 +7,7 @@ category: 'published'
 type: 'conference'
 pdf: https://arxiv.org/pdf/1903.01588.pdf
 website: http://ai.stanford.edu/mech-search/
+video: https://youtu.be/lCwdGSDkbG4
 teaser: '2019-mech-search.png'
 bibtex: '2019-mech-search.bib'
 permalink: /publications/2019-mech-search
