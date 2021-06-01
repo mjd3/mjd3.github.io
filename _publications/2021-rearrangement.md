@@ -3,12 +3,13 @@ title: 'Object Rearrangement Using Learned Implicit Collision Functions'
 authors: '**Michael Danielczuk\***, Arsalan Mousavian*, Clemens Eppner, Dieter Fox'
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2021-06-01
-category: 'accepted'
-type: 'preprint'
+category: 'published'
+type: 'conference'
 pdf: https://arxiv.org/pdf/2011.10726.pdf
 video: https://youtu.be/anXPw7o7Wx8
 presentation: https://youtu.be/SHC2ODD1QcU
 website: https://research.nvidia.com/publication/2021-03_Object-Rearrangement-Using
+code: https://github.com/NVlabs/scenecollisionnet
 teaser: '2021-rearrangement.png'
 bibtex: '2021-rearrangement.bib'
 permalink: /publications/2021-rearrangement
