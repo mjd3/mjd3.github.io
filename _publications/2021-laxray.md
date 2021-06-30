@@ -1,9 +1,10 @@
 ---
 title: 'Mechanical Search on Shelves using Lateral Access X-RAY'
 authors: 'Huang Huang\*, Marcus Dominguez-Kuhne\*, Jeffrey Ichnowski, Vishal Satish, **Michael Danielczuk** , Kate Sanders, Andrew Lee, Anelia Angelova, Vincent Vanhoucke, Ken Goldberg'
-date: 2021-03-01
-category: 'review'
-type: 'preprint'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+date: 2021-06-30
+category: 'accepted'
+type: 'conference'
 pdf: https://arxiv.org/pdf/2011.11696.pdf
 video: https://youtu.be/0xWzh9bBLeU
 website: https://sites.google.com/berkeley.edu/lax-ray/home

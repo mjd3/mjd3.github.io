@@ -16,6 +16,6 @@ I also enjoy running and hiking in the many beautiful California parks around th
 
 Recent News
 -------
+* *June 30, 2021* : Papers on [mechanical search in lateral-access environments](https://mjd3.github.io/publications/2021-laxray) in collaboration with Raven Huang and other AUTOLab members and a [smart tactile-sensing vacuum gripper](https://mjd3.github.io/publications/2021-suction) in collaboration with Tae Myung Huh and Prof. Hannah Stuart's [Embodied Dexterity Group](https://edg.berkeley.edu/) group were accepted to [IROS 2021](https://www.iros2021.org/)!
 * *June 1, 2021* : My paper on [using learned collision functions for object rearrangement](https://mjd3.github.io/publications/2021-rearrangement) with Arsalan Mousavian, Clemens Eppner and Dieter Fox from my summer internship in the [NVIDIA Seattle Robotics Lab](https://blogs.nvidia.com/blog/2019/01/11/nvidia-seattle-ai-robotics-research-lab/) was presented at [ICRA 2021](https://www.ieee-icra.org/). A full video of the presentation is available [here](https://youtu.be/SHC2ODD1QcU).
 * *June 1, 2021* : Three papers (coming soon) I worked on in collaboration with other members of the Autolab were accepted to [CASE 2021](https://case2021.sciencesconf.org/)!
-* *May 5, 2021* : A paper on a [smart tactile-sensing vacuum gripper](https://mjd3.github.io/publications/2021-suction) that I collaborated on with Tae Myung Huh and Prof. Hannah Stuart's [Embodied Dexterity Group](https://edg.berkeley.edu/) group was released on arXiv.
